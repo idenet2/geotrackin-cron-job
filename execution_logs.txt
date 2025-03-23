@@ -1,0 +1,11 @@
+[2025-03-23T11:11:28.478Z] Scheduling URL: http://localhost:5700/DUHReport/flechebleue for time 12:15:01
+[2025-03-23T11:11:28.507Z] Scheduled URL: http://localhost:5700/DUHReport/flechebleue at 12:15:01
+[2025-03-23T11:11:28.507Z] The scheduling process has started successfully.
+[2025-03-23T11:15:01.385Z] Scheduling URL: http://localhost:5700/DUHReport/flechebleue for time 12:15:01
+[2025-03-23T11:15:01.419Z] Scheduled URL: http://localhost:5700/DUHReport/flechebleue at 12:15:01
+[2025-03-23T11:15:01.419Z] The scheduling process has started successfully.
+[2025-03-23T11:19:24.129Z] Scheduling URL: http://localhost:5700/DUHReport/flechebleue for time 12:21:01
+[2025-03-23T11:19:24.157Z] Scheduled URL: http://localhost:5700/DUHReport/flechebleue at 12:21:01
+[2025-03-23T11:19:24.158Z] The scheduling process has started successfully.
+[2025-03-23T11:21:01.042Z] Executing URL at 23/03/2025 12:21:01 - URL: http://localhost:5700/DUHReport/flechebleue
+[2025-03-23T11:21:01.327Z] Error accessing http://localhost:5700/DUHReport/flechebleue: Request failed with status code 500
