@@ -4,11 +4,11 @@ const fs = require("fs");
 
 // List of URLs with their scheduled execution times
 const urls = [
-    { url: "http://localhost:5700/DUHReport/flechebleue", time: "12:21:01" },
-    // { url: "http://localhost:5700/OBCReport/TOTALENERGIES", time: "1:30:01" },
-    // { url: "http://localhost/RapportIVMS/lafargeholcimreport/eventsReport.php", time: "2:00:01" },
-    // { url: "http://localhost/RapportIVMS/riachele_utocom_report/eventsReport.php", time: "12:00:01" },
-    // { url: "http://localhost/RapportIVMS/flechbleueReport/eventsReport.php", time: "3:00:01" },
+    { url: "http://localhost:5700/DUHReport/flechebleue", time: "01:00:01" },
+    { url: "http://localhost:5700/OBCReport/TOTALENERGIES", time: "1:30:01" },
+    { url: "http://localhost/RapportIVMS/lafargeholcimreport/eventsReport.php", time: "2:00:01" },
+    { url: "http://localhost/RapportIVMS/riachele_utocom_report/eventsReport.php", time: "12:00:01" },
+    { url: "http://localhost/RapportIVMS/flechbleueReport/eventsReport.php", time: "3:00:01" },
 ];
 
 // Function to write logs to a file

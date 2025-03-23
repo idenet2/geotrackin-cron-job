@@ -1,11 +1,11 @@
-[2025-03-23T11:11:28.478Z] Scheduling URL: http://localhost:5700/DUHReport/flechebleue for time 12:15:01
-[2025-03-23T11:11:28.507Z] Scheduled URL: http://localhost:5700/DUHReport/flechebleue at 12:15:01
-[2025-03-23T11:11:28.507Z] The scheduling process has started successfully.
-[2025-03-23T11:15:01.385Z] Scheduling URL: http://localhost:5700/DUHReport/flechebleue for time 12:15:01
-[2025-03-23T11:15:01.419Z] Scheduled URL: http://localhost:5700/DUHReport/flechebleue at 12:15:01
-[2025-03-23T11:15:01.419Z] The scheduling process has started successfully.
-[2025-03-23T11:19:24.129Z] Scheduling URL: http://localhost:5700/DUHReport/flechebleue for time 12:21:01
-[2025-03-23T11:19:24.157Z] Scheduled URL: http://localhost:5700/DUHReport/flechebleue at 12:21:01
-[2025-03-23T11:19:24.158Z] The scheduling process has started successfully.
-[2025-03-23T11:21:01.042Z] Executing URL at 23/03/2025 12:21:01 - URL: http://localhost:5700/DUHReport/flechebleue
-[2025-03-23T11:21:01.327Z] Error accessing http://localhost:5700/DUHReport/flechebleue: Request failed with status code 500
+[2025-03-23T11:59:11.994Z] Scheduling URL: http://localhost:5700/DUHReport/flechebleue for time 01:00:01
+[2025-03-23T11:59:12.087Z] Scheduled URL: http://localhost:5700/DUHReport/flechebleue at 01:00:01
+[2025-03-23T11:59:12.088Z] Scheduling URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 1:30:01
+[2025-03-23T11:59:12.090Z] Scheduled URL: http://localhost:5700/OBCReport/TOTALENERGIES at 1:30:01
+[2025-03-23T11:59:12.091Z] Scheduling URL: http://localhost/RapportIVMS/lafargeholcimreport/eventsReport.php for time 2:00:01
+[2025-03-23T11:59:12.092Z] Scheduled URL: http://localhost/RapportIVMS/lafargeholcimreport/eventsReport.php at 2:00:01
+[2025-03-23T11:59:12.093Z] Scheduling URL: http://localhost/RapportIVMS/riachele_utocom_report/eventsReport.php for time 12:00:01
+[2025-03-23T11:59:12.095Z] Scheduled URL: http://localhost/RapportIVMS/riachele_utocom_report/eventsReport.php at 12:00:01
+[2025-03-23T11:59:12.095Z] Scheduling URL: http://localhost/RapportIVMS/flechbleueReport/eventsReport.php for time 3:00:01
+[2025-03-23T11:59:12.097Z] Scheduled URL: http://localhost/RapportIVMS/flechbleueReport/eventsReport.php at 3:00:01
+[2025-03-23T11:59:12.097Z] The scheduling process has started successfully.
