@@ -2,13 +2,14 @@ const axios = require("axios");
 const schedule = require("node-schedule");
 const fs = require("fs");
 
-// List of URLs with their scheduled execution times
+// List of URLs with their scheduled execution times and frequency
 const urls = [
-    { url: "http://localhost:5700/DUHReport/flechebleue", time: "01:00:01" },
-    { url: "http://localhost:5700/OBCReport/TOTALENERGIES", time: "1:30:01" },
-    { url: "http://localhost/RapportIVMS/lafargeholcimreport/eventsReport.php", time: "2:00:01" },
-    { url: "http://localhost/RapportIVMS/riachele_utocom_report/eventsReport.php", time: "12:00:01" },
-    { url: "http://localhost/RapportIVMS/flechbleueReport/eventsReport.php", time: "3:00:01" },
+    { url: "http://localhost:5700/DUHReport/flechebleue", time: "01:00:01", frequency: "daily" },
+    { url: "http://localhost:5700/OBCReport/TOTALENERGIES", time: "1:30:01", frequency: "daily" },
+    { url: "http://localhost/RapportIVMS/lafargeholcimreport/eventsReport.php", time: "2:00:01", frequency: "daily" },
+    { url: "http://localhost/RapportIVMS/riachele_utocom_report/eventsReport.php", time: "2:30:01", frequency: "daily" },
+    { url: "http://localhost/RapportIVMS/flechbleueReport/eventsReport.php", time: "3:00:01", frequency: "daily" },
+    { url: "http://localhost:5700/OBCMonthlyReport/TOTALENERGIES", time: "05:00:01", frequency: "monthly" }, // Monthly URL
 ];
 
 // Function to write logs to a file
@@ -31,22 +32,33 @@ const fetchUrl = async (url) => {
     }
 };
 
-// Schedule tasks for each URL
-urls.forEach(({ url, time }) => {
+// Schedule tasks for each URL based on frequency
+urls.forEach(({ url, time, frequency }) => {
     const [hour, minute, second] = time.split(":").map(Number); // Extract hour, minute, and second
 
-    // Log the scheduling action
-    logToFile(`Scheduling URL: ${url} for time ${time}`);
-    
-    schedule.scheduleJob({ hour, minute, second }, () => {
-        const now = new Date();
-        console.log(`Executing URL at ${now.toLocaleString()} - URL: ${url}`);
-        logToFile(`Executing URL at ${now.toLocaleString()} - URL: ${url}`);
-        fetchUrl(url); // Call the fetchUrl function for the specified URL
-    });
-
-    console.log(`Scheduled URL: ${url} at ${time}`);
-    logToFile(`Scheduled URL: ${url} at ${time}`);
+    if (frequency === "daily") {
+        // Schedule daily tasks
+        logToFile(`Scheduling daily URL: ${url} for time ${time}`);
+        schedule.scheduleJob({ hour, minute, second }, () => {
+            const now = new Date();
+            console.log(`Executing daily URL at ${now.toLocaleString()} - URL: ${url}`);
+            logToFile(`Executing daily URL at ${now.toLocaleString()} - URL: ${url}`);
+            fetchUrl(url);
+        });
+        console.log(`Scheduled daily URL: ${url} at ${time}`);
+        logToFile(`Scheduled daily URL: ${url} at ${time}`);
+    } else if (frequency === "monthly") {
+        // Schedule monthly tasks
+        logToFile(`Scheduling monthly URL: ${url} for the 1st of every month at ${time}`);
+        schedule.scheduleJob({ date: 1, hour, minute, second }, () => {
+            const now = new Date();
+            console.log(`Executing monthly URL at ${now.toLocaleString()} - URL: ${url}`);
+            logToFile(`Executing monthly URL at ${now.toLocaleString()} - URL: ${url}`);
+            fetchUrl(url);
+        });
+        console.log(`Scheduled monthly URL: ${url} on the 1st of each month at ${time}`);
+        logToFile(`Scheduled monthly URL: ${url} on the 1st of each month at ${time}`);
+    }
 });
 
 // Log a message to indicate the scheduling process has started
