@@ -9,7 +9,7 @@
   "author": "Dellil Chafik",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.8.4",
+    "axios": "^1.9.0",
     "node-schedule": "^2.1.1"
   }
 }

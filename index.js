@@ -4,11 +4,12 @@ const fs = require("fs");
 
 // List of URLs with their scheduled execution times and frequency
 const urls = [
-    { url: "http://localhost:5700/DUHReport/flechebleue", time: "01:00:01", frequency: "daily" },
-    { url: "http://localhost:5700/OBCReport/TOTALENERGIES", time: "1:30:01", frequency: "daily" },
-    { url: "http://localhost/RapportIVMS/lafargeholcimreport/eventsReport.php", time: "2:00:01", frequency: "daily" },
-    { url: "http://localhost/RapportIVMS/riachele_utocom_report/eventsReport.php", time: "2:30:01", frequency: "daily" },
-    { url: "http://localhost/RapportIVMS/flechbleueReport/eventsReport.php", time: "3:00:01", frequency: "daily" },
+    { url: "localhost:5800/WorkingHours/tosyali1/165/24h",    time: "02:00:01", frequency: "daily" },
+    { url: "localhost:5800/WorkingHours/tosyali1/165/3x8",    time: "02:10:01", frequency: "daily" },
+    { url: "localhost:5800/WorkingHours/tosyali1/164/24h",    time: "02:20:01", frequency: "daily" },
+    { url: "localhost:5800/WorkingHours/tosyali1/164/3x8",    time: "02:30:01", frequency: "daily" },
+    { url: "http://localhost:5700/DUHReport/flechebleue",     time: "03:00:01", frequency: "daily" },
+    { url: "http://localhost:5700/OBCReport/TOTALENERGIES",   time: "03:00:01", frequency: "daily" },
     { url: "http://localhost:5700/OBCMonthlyReport/TOTALENERGIES", time: "05:00:01", frequency: "monthly" }, // Monthly URL
 ];
 
