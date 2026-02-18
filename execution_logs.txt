@@ -10462,3 +10462,1277 @@
 [2026-02-12T12:52:25.983Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
 [2026-02-12T12:52:26.003Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
 [2026-02-12T12:52:26.003Z] The scheduling process has started successfully.
+[2026-02-12T14:43:51.192Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-12T14:43:51.370Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-12T14:43:51.371Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-12T14:43:51.377Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-12T14:43:51.378Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-12T14:43:51.385Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-12T14:43:51.385Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-12T14:43:51.395Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-12T14:43:51.396Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-12T14:43:51.411Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-12T14:43:51.412Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-12T14:43:51.414Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-12T14:43:51.421Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-12T14:43:51.436Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-12T14:43:51.437Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-12T14:43:51.449Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-12T14:43:51.450Z] The scheduling process has started successfully.
+[2026-02-13T02:00:01.030Z] Executing daily URL at 2/13/2026, 2:00:01 AM - URL: localhost:5800/WorkingHours/tosyali1/165/24h
+[2026-02-13T02:00:01.059Z] Error accessing localhost:5800/WorkingHours/tosyali1/165/24h: Unsupported protocol localhost:
+[2026-02-13T02:10:01.017Z] Executing daily URL at 2/13/2026, 2:10:01 AM - URL: localhost:5800/WorkingHours/tosyali1/165/3x8
+[2026-02-13T02:10:01.018Z] Error accessing localhost:5800/WorkingHours/tosyali1/165/3x8: Unsupported protocol localhost:
+[2026-02-13T02:20:01.019Z] Executing daily URL at 2/13/2026, 2:20:01 AM - URL: localhost:5800/WorkingHours/tosyali1/164/24h
+[2026-02-13T02:20:01.021Z] Error accessing localhost:5800/WorkingHours/tosyali1/164/24h: Unsupported protocol localhost:
+[2026-02-13T02:30:01.013Z] Executing daily URL at 2/13/2026, 2:30:01 AM - URL: localhost:5800/WorkingHours/tosyali1/164/3x8
+[2026-02-13T02:30:01.014Z] Error accessing localhost:5800/WorkingHours/tosyali1/164/3x8: Unsupported protocol localhost:
+[2026-02-13T03:00:01.010Z] Executing daily URL at 2/13/2026, 3:00:01 AM - URL: http://localhost:5700/OBCReport/TOTALENERGIES
+[2026-02-13T03:00:01.037Z] Executing daily URL at 2/13/2026, 3:00:01 AM - URL: http://localhost:5700/DUHReport/flechebleue
+[2026-02-13T03:00:04.105Z] Success: URL http://localhost:5700/DUHReport/flechebleue - Status: 200
+[2026-02-13T03:01:01.288Z] Success: URL http://localhost:5700/OBCReport/TOTALENERGIES - Status: 200
+[2026-02-13T06:00:01.006Z] Executing daily URL at 2/13/2026, 6:00:01 AM - URL: http://localhost:5700/OBCReportSpeeding/sorfert
+[2026-02-13T06:02:43.440Z] Success: URL http://localhost:5700/OBCReportSpeeding/sorfert - Status: 200
+[2026-02-13T11:53:53.157Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-13T11:53:53.456Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-13T11:53:53.456Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-13T11:53:53.458Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-13T11:53:53.458Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-13T11:53:53.490Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-13T11:53:53.490Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-13T11:53:53.534Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-13T11:53:53.534Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-13T11:53:53.561Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-13T11:53:53.561Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-13T11:53:53.572Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-13T11:53:53.572Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-13T11:53:53.588Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-13T11:53:53.588Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-13T11:53:53.590Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-13T11:53:53.590Z] The scheduling process has started successfully.
+[2026-02-14T02:00:01.053Z] Executing daily URL at 2/14/2026, 2:00:01 AM - URL: localhost:5800/WorkingHours/tosyali1/165/24h
+[2026-02-14T02:00:01.109Z] Error accessing localhost:5800/WorkingHours/tosyali1/165/24h: Unsupported protocol localhost:
+[2026-02-14T02:10:01.005Z] Executing daily URL at 2/14/2026, 2:10:01 AM - URL: localhost:5800/WorkingHours/tosyali1/165/3x8
+[2026-02-14T02:10:01.006Z] Error accessing localhost:5800/WorkingHours/tosyali1/165/3x8: Unsupported protocol localhost:
+[2026-02-14T02:20:01.006Z] Executing daily URL at 2/14/2026, 2:20:01 AM - URL: localhost:5800/WorkingHours/tosyali1/164/24h
+[2026-02-14T02:20:01.007Z] Error accessing localhost:5800/WorkingHours/tosyali1/164/24h: Unsupported protocol localhost:
+[2026-02-14T02:30:01.004Z] Executing daily URL at 2/14/2026, 2:30:01 AM - URL: localhost:5800/WorkingHours/tosyali1/164/3x8
+[2026-02-14T02:30:01.005Z] Error accessing localhost:5800/WorkingHours/tosyali1/164/3x8: Unsupported protocol localhost:
+[2026-02-14T03:00:01.010Z] Executing daily URL at 2/14/2026, 3:00:01 AM - URL: http://localhost:5700/OBCReport/TOTALENERGIES
+[2026-02-14T03:00:01.054Z] Executing daily URL at 2/14/2026, 3:00:01 AM - URL: http://localhost:5700/DUHReport/flechebleue
+[2026-02-14T03:00:02.481Z] Success: URL http://localhost:5700/DUHReport/flechebleue - Status: 200
+[2026-02-14T03:00:56.730Z] Success: URL http://localhost:5700/OBCReport/TOTALENERGIES - Status: 200
+[2026-02-14T06:00:01.007Z] Executing daily URL at 2/14/2026, 6:00:01 AM - URL: http://localhost:5700/OBCReportSpeeding/sorfert
+[2026-02-14T06:00:14.196Z] Success: URL http://localhost:5700/OBCReportSpeeding/sorfert - Status: 200
+[2026-02-15T02:00:01.017Z] Executing daily URL at 2/15/2026, 2:00:01 AM - URL: localhost:5800/WorkingHours/tosyali1/165/24h
+[2026-02-15T02:00:01.018Z] Error accessing localhost:5800/WorkingHours/tosyali1/165/24h: Unsupported protocol localhost:
+[2026-02-15T02:10:01.025Z] Executing daily URL at 2/15/2026, 2:10:01 AM - URL: localhost:5800/WorkingHours/tosyali1/165/3x8
+[2026-02-15T02:10:01.027Z] Error accessing localhost:5800/WorkingHours/tosyali1/165/3x8: Unsupported protocol localhost:
+[2026-02-15T02:20:01.007Z] Executing daily URL at 2/15/2026, 2:20:01 AM - URL: localhost:5800/WorkingHours/tosyali1/164/24h
+[2026-02-15T02:20:01.008Z] Error accessing localhost:5800/WorkingHours/tosyali1/164/24h: Unsupported protocol localhost:
+[2026-02-15T02:30:01.009Z] Executing daily URL at 2/15/2026, 2:30:01 AM - URL: localhost:5800/WorkingHours/tosyali1/164/3x8
+[2026-02-15T02:30:01.020Z] Error accessing localhost:5800/WorkingHours/tosyali1/164/3x8: Unsupported protocol localhost:
+[2026-02-15T03:00:01.018Z] Executing daily URL at 2/15/2026, 3:00:01 AM - URL: http://localhost:5700/DUHReport/flechebleue
+[2026-02-15T03:00:01.028Z] Executing daily URL at 2/15/2026, 3:00:01 AM - URL: http://localhost:5700/OBCReport/TOTALENERGIES
+[2026-02-15T03:00:05.602Z] Success: URL http://localhost:5700/DUHReport/flechebleue - Status: 200
+[2026-02-15T03:00:57.793Z] Success: URL http://localhost:5700/OBCReport/TOTALENERGIES - Status: 200
+[2026-02-15T06:00:01.025Z] Executing daily URL at 2/15/2026, 6:00:01 AM - URL: http://localhost:5700/OBCReportSpeeding/sorfert
+[2026-02-15T06:00:08.458Z] Success: URL http://localhost:5700/OBCReportSpeeding/sorfert - Status: 200
+[2026-02-15T08:09:03.705Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T08:09:04.159Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T08:09:04.160Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T08:09:04.162Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T08:09:04.166Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T08:09:04.168Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T08:09:04.169Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T08:09:04.197Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T08:09:04.197Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T08:09:04.204Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T08:09:04.204Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T08:09:04.205Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T08:09:04.205Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T08:09:04.208Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T08:09:04.208Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T08:09:04.210Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T08:09:04.210Z] The scheduling process has started successfully.
+[2026-02-15T08:18:01.833Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T08:18:03.008Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T08:18:03.008Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T08:18:03.059Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T08:18:03.059Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T08:18:03.099Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T08:18:03.099Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T08:18:03.150Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T08:18:03.150Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T08:18:03.161Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T08:18:03.161Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T08:18:03.173Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T08:18:03.173Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T08:18:03.197Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T08:18:03.197Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T08:18:03.200Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T08:18:03.200Z] The scheduling process has started successfully.
+[2026-02-15T08:23:07.062Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T08:23:07.498Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T08:23:07.506Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T08:23:07.519Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T08:23:07.519Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T08:23:07.528Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T08:23:07.528Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T08:23:07.541Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T08:23:07.541Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T08:23:07.552Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T08:23:07.553Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T08:23:07.554Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T08:23:07.554Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T08:23:07.564Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T08:23:07.564Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T08:23:07.566Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T08:23:07.566Z] The scheduling process has started successfully.
+[2026-02-15T08:47:53.426Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T08:47:53.738Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T08:47:53.738Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T08:47:53.747Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T08:47:53.747Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T08:47:53.763Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T08:47:53.763Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T08:47:53.780Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T08:47:53.781Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T08:47:53.782Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T08:47:53.782Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T08:47:53.792Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T08:47:53.792Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T08:47:53.793Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T08:47:53.793Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T08:47:53.799Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T08:47:53.799Z] The scheduling process has started successfully.
+[2026-02-15T08:59:54.036Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T08:59:54.470Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T08:59:54.470Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T08:59:54.483Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T08:59:54.483Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T08:59:54.500Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T08:59:54.500Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T08:59:54.556Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T08:59:54.557Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T08:59:54.567Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T08:59:54.567Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T08:59:54.569Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T08:59:54.570Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T08:59:54.585Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T08:59:54.586Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T08:59:54.595Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T08:59:54.595Z] The scheduling process has started successfully.
+[2026-02-15T09:03:32.512Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T09:03:32.741Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T09:03:32.742Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T09:03:32.744Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T09:03:32.744Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T09:03:32.773Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T09:03:32.773Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T09:03:32.789Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T09:03:32.789Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T09:03:32.791Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T09:03:32.791Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T09:03:32.801Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T09:03:32.801Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T09:03:32.809Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T09:03:32.809Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T09:03:32.812Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T09:03:32.812Z] The scheduling process has started successfully.
+[2026-02-15T09:09:27.548Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T09:09:28.071Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T09:09:28.071Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T09:09:28.085Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T09:09:28.085Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T09:09:28.096Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T09:09:28.096Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T09:09:28.110Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T09:09:28.110Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T09:09:28.122Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T09:09:28.122Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T09:09:28.125Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T09:09:28.125Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T09:09:28.132Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T09:09:28.132Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T09:09:28.138Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T09:09:28.138Z] The scheduling process has started successfully.
+[2026-02-15T09:16:14.554Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T09:16:15.234Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T09:16:15.234Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T09:16:15.265Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T09:16:15.265Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T09:16:15.305Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T09:16:15.306Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T09:16:15.362Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T09:16:15.362Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T09:16:15.381Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T09:16:15.381Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T09:16:15.395Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T09:16:15.395Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T09:16:15.407Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T09:16:15.407Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T09:16:15.425Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T09:16:15.425Z] The scheduling process has started successfully.
+[2026-02-15T09:20:09.419Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T09:20:09.834Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T09:20:09.834Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T09:20:09.856Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T09:20:09.856Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T09:20:09.876Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T09:20:09.877Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T09:20:09.934Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T09:20:09.934Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T09:20:09.952Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T09:20:09.953Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T09:20:09.968Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T09:20:09.968Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T09:20:09.971Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T09:20:09.971Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T09:20:10.003Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T09:20:10.003Z] The scheduling process has started successfully.
+[2026-02-15T09:23:57.323Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T09:23:57.744Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T09:23:57.744Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T09:23:57.788Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T09:23:57.788Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T09:23:57.809Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T09:23:57.809Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T09:23:57.857Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T09:23:57.858Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T09:23:57.873Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T09:23:57.873Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T09:23:57.888Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T09:23:57.888Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T09:23:57.889Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T09:23:57.889Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T09:23:57.910Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T09:23:57.910Z] The scheduling process has started successfully.
+[2026-02-15T09:28:54.987Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T09:28:55.235Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T09:28:55.236Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T09:28:55.239Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T09:28:55.239Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T09:28:55.245Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T09:28:55.245Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T09:28:55.303Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T09:28:55.304Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T09:28:55.320Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T09:28:55.320Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T09:28:55.336Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T09:28:55.336Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T09:28:55.337Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T09:28:55.337Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T09:28:55.375Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T09:28:55.375Z] The scheduling process has started successfully.
+[2026-02-15T09:33:37.704Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T09:33:37.950Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T09:33:37.950Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T09:33:37.957Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T09:33:37.960Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T09:33:37.966Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T09:33:37.966Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T09:33:37.985Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T09:33:37.985Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T09:33:37.987Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T09:33:37.987Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T09:33:37.996Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T09:33:37.996Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T09:33:38.004Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T09:33:38.004Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T09:33:38.007Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T09:33:38.007Z] The scheduling process has started successfully.
+[2026-02-15T09:37:04.103Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T09:37:04.430Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T09:37:04.431Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T09:37:04.446Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T09:37:04.446Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T09:37:04.463Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T09:37:04.463Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T09:37:04.505Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T09:37:04.505Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T09:37:04.506Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T09:37:04.511Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T09:37:04.513Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T09:37:04.513Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T09:37:04.514Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T09:37:04.521Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T09:37:04.525Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T09:37:04.525Z] The scheduling process has started successfully.
+[2026-02-15T09:40:59.791Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T09:41:00.182Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T09:41:00.182Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T09:41:00.210Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T09:41:00.210Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T09:41:00.226Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T09:41:00.226Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T09:41:00.275Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T09:41:00.275Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T09:41:00.290Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T09:41:00.291Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T09:41:00.306Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T09:41:00.306Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T09:41:00.307Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T09:41:00.308Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T09:41:00.319Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T09:41:00.319Z] The scheduling process has started successfully.
+[2026-02-15T09:46:45.633Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T09:46:46.048Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T09:46:46.049Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T09:46:46.055Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T09:46:46.055Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T09:46:46.064Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T09:46:46.064Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T09:46:46.078Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T09:46:46.078Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T09:46:46.083Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T09:46:46.083Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T09:46:46.086Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T09:46:46.086Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T09:46:46.089Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T09:46:46.089Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T09:46:46.094Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T09:46:46.094Z] The scheduling process has started successfully.
+[2026-02-15T09:51:25.275Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T09:51:25.738Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T09:51:25.738Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T09:51:25.748Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T09:51:25.748Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T09:51:25.761Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T09:51:25.771Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T09:51:25.834Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T09:51:25.834Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T09:51:25.852Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T09:51:25.852Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T09:51:25.854Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T09:51:25.854Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T09:51:25.868Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T09:51:25.868Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T09:51:25.870Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T09:51:25.870Z] The scheduling process has started successfully.
+[2026-02-15T09:57:04.801Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T09:57:05.087Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T09:57:05.088Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T09:57:05.098Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T09:57:05.098Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T09:57:05.116Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T09:57:05.118Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T09:57:05.132Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T09:57:05.132Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T09:57:05.137Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T09:57:05.139Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T09:57:05.140Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T09:57:05.140Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T09:57:05.149Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T09:57:05.149Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T09:57:05.155Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T09:57:05.155Z] The scheduling process has started successfully.
+[2026-02-15T10:00:57.054Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T10:00:57.491Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T10:00:57.491Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T10:00:57.500Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T10:00:57.500Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T10:00:57.502Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T10:00:57.502Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T10:00:57.522Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T10:00:57.522Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T10:00:57.536Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T10:00:57.536Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T10:00:57.539Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T10:00:57.539Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T10:00:57.540Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T10:00:57.540Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T10:00:57.565Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T10:00:57.565Z] The scheduling process has started successfully.
+[2026-02-15T10:05:23.210Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T10:05:23.494Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T10:05:23.494Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T10:05:23.505Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T10:05:23.505Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T10:05:23.518Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T10:05:23.518Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T10:05:23.549Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T10:05:23.549Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T10:05:23.550Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T10:05:23.551Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T10:05:23.568Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T10:05:23.568Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T10:05:23.569Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T10:05:23.569Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T10:05:23.580Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T10:05:23.580Z] The scheduling process has started successfully.
+[2026-02-15T10:11:08.865Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T10:11:09.281Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T10:11:09.281Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T10:11:09.284Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T10:11:09.284Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T10:11:09.310Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T10:11:09.310Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T10:11:09.346Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T10:11:09.346Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T10:11:09.347Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T10:11:09.347Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T10:11:09.362Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T10:11:09.362Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T10:11:09.363Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T10:11:09.363Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T10:11:09.381Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T10:11:09.381Z] The scheduling process has started successfully.
+[2026-02-15T10:17:49.563Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T10:17:49.855Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T10:17:49.855Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T10:17:49.867Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T10:17:49.867Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T10:17:49.869Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T10:17:49.869Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T10:17:49.890Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T10:17:49.890Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T10:17:49.899Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T10:17:49.899Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T10:17:49.900Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T10:17:49.900Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T10:17:49.905Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T10:17:49.905Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T10:17:49.918Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T10:17:49.918Z] The scheduling process has started successfully.
+[2026-02-15T10:22:26.933Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T10:22:27.443Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T10:22:27.443Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T10:22:27.465Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T10:22:27.465Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T10:22:27.480Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T10:22:27.480Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T10:22:27.503Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T10:22:27.503Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T10:22:27.517Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T10:22:27.517Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T10:22:27.518Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T10:22:27.518Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T10:22:27.528Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T10:22:27.528Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T10:22:27.542Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T10:22:27.542Z] The scheduling process has started successfully.
+[2026-02-15T10:28:41.016Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T10:28:41.385Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T10:28:41.385Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T10:28:41.410Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T10:28:41.410Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T10:28:41.422Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T10:28:41.422Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T10:28:41.468Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T10:28:41.469Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T10:28:41.470Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T10:28:41.470Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T10:28:41.489Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T10:28:41.489Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T10:28:41.490Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T10:28:41.490Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T10:28:41.514Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T10:28:41.514Z] The scheduling process has started successfully.
+[2026-02-15T10:33:36.823Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T10:33:37.140Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T10:33:37.140Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T10:33:37.164Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T10:33:37.164Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T10:33:37.186Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T10:33:37.187Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T10:33:37.228Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T10:33:37.228Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T10:33:37.253Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T10:33:37.253Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T10:33:37.254Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T10:33:37.255Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T10:33:37.276Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T10:33:37.276Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T10:33:37.282Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T10:33:37.282Z] The scheduling process has started successfully.
+[2026-02-15T10:38:26.860Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T10:38:27.255Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T10:38:27.255Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T10:38:27.325Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T10:38:27.325Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T10:38:27.351Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T10:38:27.351Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T10:38:27.382Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T10:38:27.382Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T10:38:27.388Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T10:38:27.388Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T10:38:27.393Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T10:38:27.393Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T10:38:27.399Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T10:38:27.400Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T10:38:27.415Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T10:38:27.415Z] The scheduling process has started successfully.
+[2026-02-15T10:42:43.846Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T10:42:44.065Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T10:42:44.069Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T10:42:44.071Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T10:42:44.071Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T10:42:44.076Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T10:42:44.076Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T10:42:44.088Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T10:42:44.088Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T10:42:44.089Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T10:42:44.092Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T10:42:44.093Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T10:42:44.093Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T10:42:44.099Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T10:42:44.099Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T10:42:44.101Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T10:42:44.101Z] The scheduling process has started successfully.
+[2026-02-15T10:48:01.483Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T10:48:01.747Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T10:48:01.747Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T10:48:01.760Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T10:48:01.760Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T10:48:01.785Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T10:48:01.786Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T10:48:01.829Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T10:48:01.830Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T10:48:01.831Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T10:48:01.831Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T10:48:01.838Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T10:48:01.838Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T10:48:01.839Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T10:48:01.839Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T10:48:01.848Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T10:48:01.848Z] The scheduling process has started successfully.
+[2026-02-15T10:54:17.889Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T10:54:18.088Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T10:54:18.088Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T10:54:18.095Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T10:54:18.095Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T10:54:18.100Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T10:54:18.100Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T10:54:18.110Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T10:54:18.110Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T10:54:18.120Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T10:54:18.120Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T10:54:18.121Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T10:54:18.127Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T10:54:18.128Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T10:54:18.128Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T10:54:18.130Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T10:54:18.130Z] The scheduling process has started successfully.
+[2026-02-15T10:58:49.540Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T10:58:49.783Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T10:58:49.783Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T10:58:49.790Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T10:58:49.790Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T10:58:49.799Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T10:58:49.803Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T10:58:49.809Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T10:58:49.822Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T10:58:49.845Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T10:58:49.845Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T10:58:49.853Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T10:58:49.853Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T10:58:49.854Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T10:58:49.855Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T10:58:49.862Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T10:58:49.862Z] The scheduling process has started successfully.
+[2026-02-15T11:03:11.091Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T11:03:11.390Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T11:03:11.390Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T11:03:11.400Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T11:03:11.400Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T11:03:11.410Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T11:03:11.410Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T11:03:11.434Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T11:03:11.435Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T11:03:11.442Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T11:03:11.442Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T11:03:11.447Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T11:03:11.448Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T11:03:11.453Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T11:03:11.453Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T11:03:11.472Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T11:03:11.472Z] The scheduling process has started successfully.
+[2026-02-15T11:08:37.370Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T11:08:37.660Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T11:08:37.660Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T11:08:37.674Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T11:08:37.675Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T11:08:37.692Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T11:08:37.692Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T11:08:37.704Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T11:08:37.704Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T11:08:37.712Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T11:08:37.716Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T11:08:37.717Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T11:08:37.717Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T11:08:37.724Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T11:08:37.724Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T11:08:37.728Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T11:08:37.728Z] The scheduling process has started successfully.
+[2026-02-15T11:13:07.366Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T11:13:07.592Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T11:13:07.592Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T11:13:07.600Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T11:13:07.603Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T11:13:07.613Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T11:13:07.619Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T11:13:07.626Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T11:13:07.627Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T11:13:07.644Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T11:13:07.647Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T11:13:07.653Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T11:13:07.656Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T11:13:07.659Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T11:13:07.659Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T11:13:07.663Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T11:13:07.663Z] The scheduling process has started successfully.
+[2026-02-15T11:46:34.122Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T11:46:34.271Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T11:46:34.271Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T11:46:34.306Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T11:46:34.306Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T11:46:34.327Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T11:46:34.327Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T11:46:34.387Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T11:46:34.388Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T11:46:34.389Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T11:46:34.407Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T11:46:34.408Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T11:46:34.408Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T11:46:34.409Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T11:46:34.409Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T11:46:34.424Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T11:46:34.424Z] The scheduling process has started successfully.
+[2026-02-15T11:47:05.984Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T11:47:06.076Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T11:47:06.083Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T11:47:06.085Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T11:47:06.085Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T11:47:06.090Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T11:47:06.091Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T11:47:06.128Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T11:47:06.128Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T11:47:06.164Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T11:47:06.164Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T11:47:06.169Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T11:47:06.169Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T11:47:06.171Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T11:47:06.171Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T11:47:06.178Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T11:47:06.179Z] The scheduling process has started successfully.
+[2026-02-15T11:57:08.360Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T11:57:08.798Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T11:57:08.798Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T11:57:08.808Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T11:57:08.808Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T11:57:08.810Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T11:57:08.810Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T11:57:08.836Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T11:57:08.836Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T11:57:08.837Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T11:57:08.837Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T11:57:08.838Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T11:57:08.841Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T11:57:08.848Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T11:57:08.848Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T11:57:08.850Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T11:57:08.850Z] The scheduling process has started successfully.
+[2026-02-15T12:00:40.723Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T12:00:40.993Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T12:00:40.993Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T12:00:40.995Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T12:00:40.995Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T12:00:41.005Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T12:00:41.005Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T12:00:41.033Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T12:00:41.033Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T12:00:41.035Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T12:00:41.035Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T12:00:41.045Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T12:00:41.045Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T12:00:41.046Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T12:00:41.046Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T12:00:41.048Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T12:00:41.048Z] The scheduling process has started successfully.
+[2026-02-15T12:04:05.770Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T12:04:06.035Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T12:04:06.035Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T12:04:06.050Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T12:04:06.050Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T12:04:06.070Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T12:04:06.070Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T12:04:06.102Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T12:04:06.102Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T12:04:06.104Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T12:04:06.104Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T12:04:06.129Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T12:04:06.129Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T12:04:06.142Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T12:04:06.143Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T12:04:06.144Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T12:04:06.155Z] The scheduling process has started successfully.
+[2026-02-15T12:08:46.467Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T12:08:46.838Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T12:08:46.838Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T12:08:46.858Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T12:08:46.858Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T12:08:46.874Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T12:08:46.874Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T12:08:46.901Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T12:08:46.901Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T12:08:46.906Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T12:08:46.906Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T12:08:46.907Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T12:08:46.907Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T12:08:46.912Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T12:08:46.912Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T12:08:46.914Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T12:08:46.914Z] The scheduling process has started successfully.
+[2026-02-15T12:10:20.326Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T12:10:20.801Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T12:10:20.801Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T12:10:20.824Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T12:10:20.824Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T12:10:20.869Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T12:10:20.869Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T12:10:20.916Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T12:10:20.959Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T12:10:20.997Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T12:10:20.997Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T12:10:21.043Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T12:10:21.043Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T12:10:21.045Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T12:10:21.045Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T12:10:21.086Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T12:10:21.087Z] The scheduling process has started successfully.
+[2026-02-15T14:11:46.892Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-15T14:11:47.250Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-15T14:11:47.250Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-15T14:11:47.273Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-15T14:11:47.273Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-15T14:11:47.275Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-15T14:11:47.275Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-15T14:11:47.327Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-15T14:11:47.327Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-15T14:11:47.376Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-15T14:11:47.376Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-15T14:11:47.377Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-15T14:11:47.377Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-15T14:11:47.378Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-15T14:11:47.405Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-15T14:11:47.406Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-15T14:11:47.406Z] The scheduling process has started successfully.
+[2026-02-16T02:00:01.032Z] Executing daily URL at 2/16/2026, 2:00:01 AM - URL: localhost:5800/WorkingHours/tosyali1/165/24h
+[2026-02-16T02:00:01.052Z] Error accessing localhost:5800/WorkingHours/tosyali1/165/24h: Unsupported protocol localhost:
+[2026-02-16T02:10:01.009Z] Executing daily URL at 2/16/2026, 2:10:01 AM - URL: localhost:5800/WorkingHours/tosyali1/165/3x8
+[2026-02-16T02:10:01.011Z] Error accessing localhost:5800/WorkingHours/tosyali1/165/3x8: Unsupported protocol localhost:
+[2026-02-16T02:20:01.018Z] Executing daily URL at 2/16/2026, 2:20:01 AM - URL: localhost:5800/WorkingHours/tosyali1/164/24h
+[2026-02-16T02:20:01.020Z] Error accessing localhost:5800/WorkingHours/tosyali1/164/24h: Unsupported protocol localhost:
+[2026-02-16T02:30:01.027Z] Executing daily URL at 2/16/2026, 2:30:01 AM - URL: localhost:5800/WorkingHours/tosyali1/164/3x8
+[2026-02-16T02:30:01.030Z] Error accessing localhost:5800/WorkingHours/tosyali1/164/3x8: Unsupported protocol localhost:
+[2026-02-16T03:00:01.013Z] Executing daily URL at 2/16/2026, 3:00:01 AM - URL: http://localhost:5700/OBCReport/TOTALENERGIES
+[2026-02-16T03:00:01.073Z] Executing daily URL at 2/16/2026, 3:00:01 AM - URL: http://localhost:5700/DUHReport/flechebleue
+[2026-02-16T03:00:04.540Z] Success: URL http://localhost:5700/DUHReport/flechebleue - Status: 200
+[2026-02-16T03:00:56.968Z] Success: URL http://localhost:5700/OBCReport/TOTALENERGIES - Status: 200
+[2026-02-16T06:00:02.611Z] Executing daily URL at 2/16/2026, 6:00:02 AM - URL: http://localhost:5700/OBCReportSpeeding/sorfert
+[2026-02-16T06:00:23.567Z] Success: URL http://localhost:5700/OBCReportSpeeding/sorfert - Status: 200
+[2026-02-16T07:54:59.527Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T07:55:00.036Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T07:55:00.036Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T07:55:00.075Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T07:55:00.075Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T07:55:00.096Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T07:55:00.096Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T07:55:00.133Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T07:55:00.133Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T07:55:00.169Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T07:55:00.169Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T07:55:00.171Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T07:55:00.171Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T07:55:00.199Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T07:55:00.199Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T07:55:00.223Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T07:55:00.223Z] The scheduling process has started successfully.
+[2026-02-16T08:13:43.878Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T08:13:44.360Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T08:13:44.360Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T08:13:44.373Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T08:13:44.373Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T08:13:44.388Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T08:13:44.388Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T08:13:44.423Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T08:13:44.423Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T08:13:44.432Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T08:13:44.432Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T08:13:44.437Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T08:13:44.437Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T08:13:44.443Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T08:13:44.443Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T08:13:44.453Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T08:13:44.453Z] The scheduling process has started successfully.
+[2026-02-16T08:17:39.602Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T08:17:40.184Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T08:17:40.184Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T08:17:40.236Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T08:17:40.237Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T08:17:40.279Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T08:17:40.279Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T08:17:40.321Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T08:17:40.321Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T08:17:40.343Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T08:17:40.343Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T08:17:40.369Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T08:17:40.369Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T08:17:40.388Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T08:17:40.388Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T08:17:40.390Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T08:17:40.390Z] The scheduling process has started successfully.
+[2026-02-16T08:24:08.074Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T08:24:08.632Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T08:24:08.632Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T08:24:08.648Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T08:24:08.648Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T08:24:08.668Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T08:24:08.668Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T08:24:08.704Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T08:24:08.704Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T08:24:08.706Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T08:24:08.706Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T08:24:08.721Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T08:24:08.721Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T08:24:08.722Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T08:24:08.728Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T08:24:08.737Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T08:24:08.737Z] The scheduling process has started successfully.
+[2026-02-16T08:28:04.881Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T08:28:05.296Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T08:28:05.296Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T08:28:05.304Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T08:28:05.304Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T08:28:05.316Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T08:28:05.316Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T08:28:05.339Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T08:28:05.339Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T08:28:05.355Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T08:28:05.356Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T08:28:05.357Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T08:28:05.357Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T08:28:05.375Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T08:28:05.375Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T08:28:05.385Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T08:28:05.386Z] The scheduling process has started successfully.
+[2026-02-16T08:52:09.303Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T08:52:09.843Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T08:52:09.843Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T08:52:09.888Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T08:52:09.888Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T08:52:09.933Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T08:52:09.933Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T08:52:10.012Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T08:52:10.012Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T08:52:10.026Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T08:52:10.027Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T08:52:10.061Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T08:52:10.061Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T08:52:10.093Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T08:52:10.093Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T08:52:10.132Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T08:52:10.132Z] The scheduling process has started successfully.
+[2026-02-16T08:56:32.625Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T08:56:33.085Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T08:56:33.085Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T08:56:33.119Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T08:56:33.119Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T08:56:33.143Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T08:56:33.143Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T08:56:33.216Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T08:56:33.216Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T08:56:33.234Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T08:56:33.234Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T08:56:33.236Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T08:56:33.236Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T08:56:33.251Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T08:56:33.259Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T08:56:33.274Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T08:56:33.274Z] The scheduling process has started successfully.
+[2026-02-16T09:09:03.146Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T09:09:03.795Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T09:09:03.795Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T09:09:03.807Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T09:09:03.807Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T09:09:03.844Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T09:09:03.844Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T09:09:03.907Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T09:09:03.907Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T09:09:03.930Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T09:09:03.930Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T09:09:03.949Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T09:09:03.949Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T09:09:03.950Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T09:09:03.951Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T09:09:03.959Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T09:09:03.959Z] The scheduling process has started successfully.
+[2026-02-16T09:13:51.895Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T09:13:52.529Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T09:13:52.530Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T09:13:52.554Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T09:13:52.577Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T09:13:52.598Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T09:13:52.598Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T09:13:52.651Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T09:13:52.652Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T09:13:52.670Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T09:13:52.670Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T09:13:52.681Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T09:13:52.681Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T09:13:52.701Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T09:13:52.701Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T09:13:52.720Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T09:13:52.721Z] The scheduling process has started successfully.
+[2026-02-16T09:19:23.942Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T09:19:24.286Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T09:19:24.286Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T09:19:24.288Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T09:19:24.292Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T09:19:24.298Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T09:19:24.302Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T09:19:24.318Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T09:19:24.318Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T09:19:24.319Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T09:19:24.319Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T09:19:24.320Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T09:19:24.320Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T09:19:24.329Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T09:19:24.335Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T09:19:24.336Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T09:19:24.336Z] The scheduling process has started successfully.
+[2026-02-16T09:26:26.371Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T09:26:26.952Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T09:26:26.952Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T09:26:26.959Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T09:26:26.972Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T09:26:26.992Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T09:26:26.993Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T09:26:27.026Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T09:26:27.026Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T09:26:27.028Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T09:26:27.028Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T09:26:27.048Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T09:26:27.048Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T09:26:27.052Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T09:26:27.053Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T09:26:27.063Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T09:26:27.063Z] The scheduling process has started successfully.
+[2026-02-16T09:30:09.889Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T09:30:10.631Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T09:30:10.631Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T09:30:10.662Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T09:30:10.662Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T09:30:10.717Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T09:30:10.717Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T09:30:10.753Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T09:30:10.753Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T09:30:10.754Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T09:30:10.754Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T09:30:10.755Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T09:30:10.755Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T09:30:10.759Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T09:30:10.759Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T09:30:10.765Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T09:30:10.765Z] The scheduling process has started successfully.
+[2026-02-16T09:35:28.203Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T09:35:28.578Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T09:35:28.578Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T09:35:28.592Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T09:35:28.592Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T09:35:28.606Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T09:35:28.606Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T09:35:28.633Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T09:35:28.634Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T09:35:28.635Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T09:35:28.642Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T09:35:28.644Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T09:35:28.644Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T09:35:28.652Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T09:35:28.653Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T09:35:28.667Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T09:35:28.667Z] The scheduling process has started successfully.
+[2026-02-16T09:41:56.044Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T09:41:56.424Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T09:41:56.424Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T09:41:56.441Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T09:41:56.442Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T09:41:56.462Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T09:41:56.462Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T09:41:56.506Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T09:41:56.506Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T09:41:56.508Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T09:41:56.508Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T09:41:56.528Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T09:41:56.528Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T09:41:56.530Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T09:41:56.530Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T09:41:56.555Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T09:41:56.555Z] The scheduling process has started successfully.
+[2026-02-16T09:46:08.785Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T09:46:09.107Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T09:46:09.107Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T09:46:09.120Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T09:46:09.120Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T09:46:09.151Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T09:46:09.151Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T09:46:09.216Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T09:46:09.216Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T09:46:09.231Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T09:46:09.231Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T09:46:09.233Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T09:46:09.250Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T09:46:09.257Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T09:46:09.257Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T09:46:09.272Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T09:46:09.272Z] The scheduling process has started successfully.
+[2026-02-16T09:52:12.310Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T09:52:12.739Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T09:52:12.739Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T09:52:12.758Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T09:52:12.758Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T09:52:12.770Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T09:52:12.770Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T09:52:12.830Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T09:52:12.830Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T09:52:12.832Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T09:52:12.846Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T09:52:12.848Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T09:52:12.848Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T09:52:12.862Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T09:52:12.862Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T09:52:12.876Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T09:52:12.876Z] The scheduling process has started successfully.
+[2026-02-16T09:58:04.120Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T09:58:04.711Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T09:58:04.711Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T09:58:04.726Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T09:58:04.726Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T09:58:04.748Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T09:58:04.748Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T09:58:04.792Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T09:58:04.792Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T09:58:04.800Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T09:58:04.800Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T09:58:04.827Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T09:58:04.827Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T09:58:04.848Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T09:58:04.848Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T09:58:04.850Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T09:58:04.851Z] The scheduling process has started successfully.
+[2026-02-16T10:01:59.755Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T10:02:00.051Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T10:02:00.051Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T10:02:00.063Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T10:02:00.064Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T10:02:00.080Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T10:02:00.080Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T10:02:00.101Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T10:02:00.101Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T10:02:00.114Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T10:02:00.114Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T10:02:00.116Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T10:02:00.116Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T10:02:00.128Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T10:02:00.128Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T10:02:00.143Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T10:02:00.143Z] The scheduling process has started successfully.
+[2026-02-16T10:05:47.546Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T10:05:47.818Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T10:05:47.819Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T10:05:47.828Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T10:05:47.829Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T10:05:47.857Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T10:05:47.857Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T10:05:47.898Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T10:05:47.898Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T10:05:47.914Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T10:05:47.915Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T10:05:47.921Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T10:05:47.921Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T10:05:47.936Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T10:05:47.936Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T10:05:47.950Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T10:05:47.951Z] The scheduling process has started successfully.
+[2026-02-16T10:25:41.594Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-16T10:25:42.033Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-16T10:25:42.033Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-16T10:25:42.047Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-16T10:25:42.047Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-16T10:25:42.061Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-16T10:25:42.061Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-16T10:25:42.087Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-16T10:25:42.094Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-16T10:25:42.096Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-16T10:25:42.096Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-16T10:25:42.101Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-16T10:25:42.101Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-16T10:25:42.107Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-16T10:25:42.107Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-16T10:25:42.112Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-16T10:25:42.112Z] The scheduling process has started successfully.
+[2026-02-17T02:00:01.009Z] Executing daily URL at 2/17/2026, 2:00:01 AM - URL: localhost:5800/WorkingHours/tosyali1/165/24h
+[2026-02-17T02:00:01.015Z] Error accessing localhost:5800/WorkingHours/tosyali1/165/24h: Unsupported protocol localhost:
+[2026-02-17T02:10:01.047Z] Executing daily URL at 2/17/2026, 2:10:01 AM - URL: localhost:5800/WorkingHours/tosyali1/165/3x8
+[2026-02-17T02:10:01.049Z] Error accessing localhost:5800/WorkingHours/tosyali1/165/3x8: Unsupported protocol localhost:
+[2026-02-17T02:20:01.007Z] Executing daily URL at 2/17/2026, 2:20:01 AM - URL: localhost:5800/WorkingHours/tosyali1/164/24h
+[2026-02-17T02:20:01.008Z] Error accessing localhost:5800/WorkingHours/tosyali1/164/24h: Unsupported protocol localhost:
+[2026-02-17T02:30:01.053Z] Executing daily URL at 2/17/2026, 2:30:01 AM - URL: localhost:5800/WorkingHours/tosyali1/164/3x8
+[2026-02-17T02:30:01.079Z] Error accessing localhost:5800/WorkingHours/tosyali1/164/3x8: Unsupported protocol localhost:
+[2026-02-17T03:00:01.005Z] Executing daily URL at 2/17/2026, 3:00:01 AM - URL: http://localhost:5700/OBCReport/TOTALENERGIES
+[2026-02-17T03:00:01.039Z] Executing daily URL at 2/17/2026, 3:00:01 AM - URL: http://localhost:5700/DUHReport/flechebleue
+[2026-02-17T03:00:08.584Z] Success: URL http://localhost:5700/DUHReport/flechebleue - Status: 200
+[2026-02-17T03:01:05.059Z] Success: URL http://localhost:5700/OBCReport/TOTALENERGIES - Status: 200
+[2026-02-17T06:00:01.007Z] Executing daily URL at 2/17/2026, 6:00:01 AM - URL: http://localhost:5700/OBCReportSpeeding/sorfert
+[2026-02-17T06:00:20.703Z] Success: URL http://localhost:5700/OBCReportSpeeding/sorfert - Status: 200
+[2026-02-17T12:59:58.738Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-17T12:59:59.276Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-17T12:59:59.277Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-17T12:59:59.307Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-17T12:59:59.307Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-17T12:59:59.349Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-17T12:59:59.350Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-17T12:59:59.386Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-17T12:59:59.386Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-17T12:59:59.419Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-17T12:59:59.420Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-17T12:59:59.452Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-17T12:59:59.452Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-17T12:59:59.454Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-17T12:59:59.454Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-17T12:59:59.479Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-17T12:59:59.479Z] The scheduling process has started successfully.
+[2026-02-18T02:00:01.016Z] Executing daily URL at 2/18/2026, 2:00:01 AM - URL: localhost:5800/WorkingHours/tosyali1/165/24h
+[2026-02-18T02:00:01.021Z] Error accessing localhost:5800/WorkingHours/tosyali1/165/24h: Unsupported protocol localhost:
+[2026-02-18T02:10:01.042Z] Executing daily URL at 2/18/2026, 2:10:01 AM - URL: localhost:5800/WorkingHours/tosyali1/165/3x8
+[2026-02-18T02:10:01.043Z] Error accessing localhost:5800/WorkingHours/tosyali1/165/3x8: Unsupported protocol localhost:
+[2026-02-18T02:20:01.005Z] Executing daily URL at 2/18/2026, 2:20:01 AM - URL: localhost:5800/WorkingHours/tosyali1/164/24h
+[2026-02-18T02:20:01.006Z] Error accessing localhost:5800/WorkingHours/tosyali1/164/24h: Unsupported protocol localhost:
+[2026-02-18T02:30:01.019Z] Executing daily URL at 2/18/2026, 2:30:01 AM - URL: localhost:5800/WorkingHours/tosyali1/164/3x8
+[2026-02-18T02:30:01.020Z] Error accessing localhost:5800/WorkingHours/tosyali1/164/3x8: Unsupported protocol localhost:
+[2026-02-18T03:00:01.015Z] Executing daily URL at 2/18/2026, 3:00:01 AM - URL: http://localhost:5700/OBCReport/TOTALENERGIES
+[2026-02-18T03:00:01.116Z] Executing daily URL at 2/18/2026, 3:00:01 AM - URL: http://localhost:5700/DUHReport/flechebleue
+[2026-02-18T03:00:08.293Z] Success: URL http://localhost:5700/DUHReport/flechebleue - Status: 200
+[2026-02-18T03:01:00.991Z] Success: URL http://localhost:5700/OBCReport/TOTALENERGIES - Status: 200
+[2026-02-18T06:00:01.009Z] Executing daily URL at 2/18/2026, 6:00:01 AM - URL: http://localhost:5700/OBCReportSpeeding/sorfert
+[2026-02-18T06:00:19.522Z] Success: URL http://localhost:5700/OBCReportSpeeding/sorfert - Status: 200
+[2026-02-18T08:58:10.528Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-18T08:58:11.119Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-18T08:58:11.120Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-18T08:58:11.135Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-18T08:58:11.135Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-18T08:58:11.146Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-18T08:58:11.152Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-18T08:58:11.188Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-18T08:58:11.188Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-18T08:58:11.190Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-18T08:58:11.190Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-18T08:58:11.198Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-18T08:58:11.198Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-18T08:58:11.222Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-18T08:58:11.222Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-18T08:58:11.242Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-18T08:58:11.242Z] The scheduling process has started successfully.
+[2026-02-18T09:02:53.230Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-18T09:02:53.549Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-18T09:02:53.556Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-18T09:02:53.573Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-18T09:02:53.573Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-18T09:02:53.586Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-18T09:02:53.586Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-18T09:02:53.616Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-18T09:02:53.616Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-18T09:02:53.634Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-18T09:02:53.634Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-18T09:02:53.646Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-18T09:02:53.646Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-18T09:02:53.659Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-18T09:02:53.659Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-18T09:02:53.664Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-18T09:02:53.664Z] The scheduling process has started successfully.
+[2026-02-18T09:13:27.988Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-18T09:13:28.422Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-18T09:13:28.422Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-18T09:13:28.435Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-18T09:13:28.435Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-18T09:13:28.453Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-18T09:13:28.454Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-18T09:13:28.497Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-18T09:13:28.498Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-18T09:13:28.507Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-18T09:13:28.507Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-18T09:13:28.509Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-18T09:13:28.509Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-18T09:13:28.519Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-18T09:13:28.519Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-18T09:13:28.531Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-18T09:13:28.531Z] The scheduling process has started successfully.
+[2026-02-18T09:31:30.500Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-18T09:31:30.971Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-18T09:31:30.971Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-18T09:31:30.993Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-18T09:31:30.993Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-18T09:31:31.012Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-18T09:31:31.012Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-18T09:31:31.080Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-18T09:31:31.080Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-18T09:31:31.101Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-18T09:31:31.111Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-18T09:31:31.113Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-18T09:31:31.113Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-18T09:31:31.136Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-18T09:31:31.136Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-18T09:31:31.160Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-18T09:31:31.160Z] The scheduling process has started successfully.
+[2026-02-18T09:44:09.175Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-18T09:44:09.480Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-18T09:44:09.480Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-18T09:44:09.520Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-18T09:44:09.520Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-18T09:44:09.532Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-18T09:44:09.532Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-18T09:44:09.580Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-18T09:44:09.580Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-18T09:44:09.611Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-18T09:44:09.611Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-18T09:44:09.612Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-18T09:44:09.612Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-18T09:44:09.647Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-18T09:44:09.647Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-18T09:44:09.670Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-18T09:44:09.671Z] The scheduling process has started successfully.
+[2026-02-18T11:32:47.056Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-18T11:32:47.335Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-18T11:32:47.335Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-18T11:32:47.359Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-18T11:32:47.359Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-18T11:32:47.390Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-18T11:32:47.390Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-18T11:32:47.397Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-18T11:32:47.397Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-18T11:32:47.402Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-18T11:32:47.402Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-18T11:32:47.403Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-18T11:32:47.403Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-18T11:32:47.404Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-18T11:32:47.404Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-18T11:32:47.405Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-18T11:32:47.405Z] The scheduling process has started successfully.
+[2026-02-18T11:34:24.054Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/24h for time 02:00:01
+[2026-02-18T11:34:24.298Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/24h at 02:00:01
+[2026-02-18T11:34:24.298Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 for time 02:10:01
+[2026-02-18T11:34:24.331Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/165/3x8 at 02:10:01
+[2026-02-18T11:34:24.331Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/24h for time 02:20:01
+[2026-02-18T11:34:24.356Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/24h at 02:20:01
+[2026-02-18T11:34:24.356Z] Scheduling daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 for time 02:30:01
+[2026-02-18T11:34:24.409Z] Scheduled daily URL: localhost:5800/WorkingHours/tosyali1/164/3x8 at 02:30:01
+[2026-02-18T11:34:24.409Z] Scheduling daily URL: http://localhost:5700/DUHReport/flechebleue for time 03:00:01
+[2026-02-18T11:34:24.411Z] Scheduled daily URL: http://localhost:5700/DUHReport/flechebleue at 03:00:01
+[2026-02-18T11:34:24.411Z] Scheduling daily URL: http://localhost:5700/OBCReport/TOTALENERGIES for time 03:00:01
+[2026-02-18T11:34:24.430Z] Scheduled daily URL: http://localhost:5700/OBCReport/TOTALENERGIES at 03:00:01
+[2026-02-18T11:34:24.430Z] Scheduling daily URL: http://localhost:5700/OBCReportSpeeding/sorfert for time 06:00:01
+[2026-02-18T11:34:24.431Z] Scheduled daily URL: http://localhost:5700/OBCReportSpeeding/sorfert at 06:00:01
+[2026-02-18T11:34:24.431Z] Scheduling monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES for the 1st of every month at 05:00:01
+[2026-02-18T11:34:24.454Z] Scheduled monthly URL: http://localhost:5700/OBCMonthlyReport/TOTALENERGIES on the 1st of each month at 05:00:01
+[2026-02-18T11:34:24.454Z] The scheduling process has started successfully.
